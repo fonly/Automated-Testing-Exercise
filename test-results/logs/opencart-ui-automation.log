@@ -1,0 +1,3 @@
+[33m[2023-11月-08 17:27:23.341 CST][m [37m[Thread ID: 26][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'chrome' with headless mode as 'true'
+[33m[2023-11月-08 17:27:23.841 CST][m [37m[Thread ID: 26][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2023-11月-08 17:28:06.790 CST][m [37m[Thread ID: 26][m [94m[PlaywrightFactory.takeScreenshot][m [36m[DEBUG][m Screenshot is taken and saved at the location  /Users/george/Automated-Testing-Exercise/test-results/screenshots/1699435686580.png

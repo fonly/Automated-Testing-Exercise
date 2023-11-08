@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="playwright-execise" thread-count="3" parallel="tests" verbose="4">
+
+	<parameter name="visit-result" value="3"></parameter>
+
+	<test name="baiduImageTest">
+		<classes>
+			<class name="tests.BaiduImageSearchTests" />
+		</classes>
+	</test>
+</suite>
